@@ -58,7 +58,7 @@ var TasksComponent = (function () {
         core_1.Component({
             moduleId: module.id,
             selector: 'tasks',
-            templateUrl: 'tasks.component.html'
+            templateUrl: './app/components/tasks/tasks.component.html'
         }), 
         __metadata('design:paramtypes', [task_service_1.TaskService])
     ], TasksComponent);

@@ -15,9 +15,8 @@ var AppComponent = (function () {
     }
     AppComponent = __decorate([
         core_1.Component({
-            moduleId: module.id,
             selector: 'my-app',
-            templateUrl: 'app.component.html',
+            templateUrl: './app/app.component.html',
             providers: [task_service_1.TaskService]
         }), 
         __metadata('design:paramtypes', [])
