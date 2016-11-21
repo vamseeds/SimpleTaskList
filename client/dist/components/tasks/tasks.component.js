@@ -56,7 +56,6 @@ var TasksComponent = (function () {
     };
     TasksComponent = __decorate([
         core_1.Component({
-            moduleId: module.id,
             selector: 'tasks',
             templateUrl: './app/components/tasks/tasks.component.html'
         }), 

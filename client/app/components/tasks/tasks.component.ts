@@ -3,7 +3,6 @@ import {TaskService} from '../../services/task.service';
 import {Task} from '../../models/Task';
 
 @Component({
-  moduleId: module.id,
   selector: 'tasks',
   templateUrl: './app/components/tasks/tasks.component.html'
 })
